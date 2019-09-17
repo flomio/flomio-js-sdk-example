@@ -1,0 +1,32 @@
+{
+  "name": "flomio-js-sdk-example",
+  "version": "1.0.0",
+  "description": "An example of using the Flomio JS SDK to read NFC tags using your FloBLE Plus via USB",
+  "main": "example.js",
+  "dependencies": {
+    "@pokusew/pcsclite": "^0.5.2"
+  },
+  "devDependencies": {
+    "@types/node": "^12.7.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flomio/flomio-js-sdk-example.git"
+  },
+  "keywords": [
+    "NFC",
+    "NDEF",
+    "flomio",
+    "USB",
+    "PCSC"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flomio/flomio-js-sdk-example/issues"
+  },
+  "homepage": "https://github.com/flomio/flomio-js-sdk-example#readme"
+}
