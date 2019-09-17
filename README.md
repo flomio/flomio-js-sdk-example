@@ -37,7 +37,7 @@ Clone this repo, and within it, run:
 # Example
 
 Connect your FloBLE Plus in USB mode and run:
-`node example.js`
+`node examples/example.js`
 
 Example.js:
 ```javascript
