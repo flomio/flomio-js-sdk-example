@@ -22,10 +22,6 @@ A Javascript SDK to control your FloBLE Plus via PCSC
   - [NDEF](#ndef)
     - [Class: Record](#record)
     - [Class: Message](#message)
-
-- [NDEF](#ndef)
-    - [IRecord](#irecord)
-    - [IMessage](#imessage)
     
 # Installation
 
