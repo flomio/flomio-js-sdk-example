@@ -27,9 +27,6 @@ A Javascript SDK to control your FloBLE Plus via PCSC
     - [IRecord](#irecord)
     - [IMessage](#imessage)
     
-* [Add Pro SDK for Offline usage](#add-pro-sdk-for-offline-usage)
-* [Use with Ionic](#use-with-ionic) -->
-
 # Installation
 
 > **Requirements:** **Node.js 8+**
