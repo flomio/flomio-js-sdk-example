@@ -1,6 +1,6 @@
 # Flomio-JS-SDK-Example
 
-A Javascript SDK to control your FloBLE Plus via PCSC 
+A Javascript SDK to control your FloBLE via PCSC 
 
 ## Contents
 
@@ -32,7 +32,7 @@ Clone this repo, and within it, run:
 
 # Example
 
-Connect your FloBLE Plus in USB mode and run:
+Connect your FloBLE in USB mode and run:
 `node examples/example.js`
 
 Example.js:
@@ -78,7 +78,7 @@ A `Session` object is an EventEmitter which triggers events when [Reader](#Reade
 
 #### Event:  'reader'
 
-* *reader* [Reader](#reader). A connection event which returns a Reader object associated with a detected FloBLE Plus. This will only happen if the device is a registered Flomio reader.
+* *reader* [Reader](#reader). A connection event which returns a Reader object associated with a detected FloBLE. This will only happen if the device is a registered Flomio reader.
 
 #### Event:  'tag'
 
@@ -90,7 +90,7 @@ A `Session` object is an EventEmitter which triggers events when [Reader](#Reade
 
 ## **Reader**
 
-An object to manually control your FloBLE Plus device. This is returned from the Session [reader](#event--reader) event. 
+An object to manually control your FloBLE device. This is returned from the Session [reader](#event--reader) event. 
 
 ```javascript
 const session = new flomio.Session()
