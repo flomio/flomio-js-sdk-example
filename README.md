@@ -1,6 +1,6 @@
 # Flomio-JS-SDK-Example
 
-A Javascript SDK to control your FloBLE via PCSC 
+A Javascript SDK to control your FloBLE over USB (BLE coming soon!) 
 
 ## Contents
 
